@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on different projects in Data|Business, I use different tools| Models (Tableau, Power BI, Pyton,...)
 - 💞️ I’m looking to collaborate on different Data projects, Business studies, ..etc.
 - 👉🏻 I recently started uploading some of my projects here, I hope you enjoy reading them 😎. You are welcome to provide feedback!
-- 📫 How to reach me "https://www.linkedin.com/in/nassimaguenaoui/"
+
 
 <!---
 Kaizen184/Kaizen184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
